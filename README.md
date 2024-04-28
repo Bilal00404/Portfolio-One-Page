@@ -14,6 +14,7 @@ You can view the live version of the portfolio here: [Portfolio One Page](https:
 
 ## Project Screenshots
 Here are some screenshots of the website:
+
 ![Screenshot 1](./project_screenshots/1.png)
 
 ![Screenshot 2](./project_screenshots/2.png)
